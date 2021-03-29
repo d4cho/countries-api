@@ -1,0 +1,27 @@
+.LandingPage-container {
+    padding: 0 5rem;
+    background-color: hsl(0, 0%, 98%);
+}
+
+.LandingPage-filters {
+    margin: 3rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.LandingPage-filters input {
+    min-width: 33vw;
+    padding: 1rem 3rem;
+    font-size: 1.5rem;
+    border: none;
+    box-shadow: 0px 0px 5px grey;
+}
+
+.LandingPage-filters select {
+    min-width: 20vw;
+    padding: 1rem 3rem;
+    font-size: 1.5rem;
+    border: none;
+    box-shadow: 0px 0px 5px grey;
+}
